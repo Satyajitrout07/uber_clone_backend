@@ -3,7 +3,7 @@ const sequelize = require('../config/db-config.js');
 const bcrypt= require('bcrypt');
 const jwt = require ('jsonwebtoken');
 
-
+//mongodb query.
 //const user = sequelize.define('user',{
    /* fullname:{
         firstname:{
